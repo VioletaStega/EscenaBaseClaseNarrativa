@@ -4,7 +4,7 @@ public class Player : MonoBehaviour
 {
     [SerializeField]
     private float moveSpeed,
-                turnSpeed;
+                  turnSpeed;
 
     // Update is called once per frame
     void Update()
